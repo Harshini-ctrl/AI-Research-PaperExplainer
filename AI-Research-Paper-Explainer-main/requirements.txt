@@ -7,4 +7,4 @@ google-generativeai
 python-multipart
 rank-bm25
 numpy
-
+python-dotenv
