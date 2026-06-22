@@ -9,8 +9,6 @@
 
 
 
-Youtube Link :  https://youtu.be/E-D9x-DUPVM?si=-69VtHk3LUCjMWbo
-
 We’ll go step by step:
 ✅ Uploading and processing research papers (PDF parsing)
 ✅ Breaking documents into meaningful chunks
