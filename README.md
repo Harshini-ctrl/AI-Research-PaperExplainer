@@ -1,5 +1,5 @@
 # AI-Research-Paper-Explainer
-# How I Built an AI That Explains Any Research Paper 🔥 | RAG + Machine Learning Project
+RAG + Machine Learning Project
 
 <img width="1918" height="996" alt="Screenshot 2026-05-02 191411" src="https://github.com/user-attachments/assets/833056fd-1b65-45d7-9c4b-1d6e147477c8" />
 
